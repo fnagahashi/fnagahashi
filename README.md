@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Meu nome é Fabiana, atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Mogi das Cruzes e tenho interesse na área de desenvolvimento backend além de análise de dados.<br>Minhas habilidades incluem conhecimento básico em linguagens como:  JAVA, C, C++, PHP e SQL. Além de conhecimento básico em Power BI.<br>Tenho muito a aprender e gosto de estar sempre desenvolvendo meus conhecimentos.
+Olá! Meu nome é Fabiana, atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Mogi das Cruzes e tenho interesse na área de desenvolvimento mobile além de análise de dados.<br>Minhas habilidades incluem conhecimento básico em linguagens como:  JAVA, C, C++, PHP e SQL. Além de conhecimento básico em Power BI, React Native e Expo.<br>Tenho muito a aprender e gosto de estar sempre desenvolvendo meus conhecimentos.
 
 
 ## 🌐 Socials:
